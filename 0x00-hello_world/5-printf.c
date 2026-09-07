@@ -1,21 +1,13 @@
 #include <stdio.h>
+
 /**
- * main- Defines the start of any program
+ * main - Entry point
  *
- * return always terminates the function of a program
+ * Description: Prints a message using printf
+ * Return: Always 0 (Success)
  */
-
-
-	int main(void)
+int main(void)
 {
-
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-	/**
-	 * prints the output of the sentence
-	 *
-	 * return creates the output of the program
-	 */
-
-	return (0);
-
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
