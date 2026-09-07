@@ -1,1 +1,1 @@
-# Low Level Programming - Hello World Project
+# Low-Level Programming - C
