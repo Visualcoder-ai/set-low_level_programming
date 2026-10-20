@@ -2,5 +2,6 @@
 #define MAIN_H
 
 int _putchar(char c);
+void _print_number(int n);
 
 #endif /* MAIN_H */
